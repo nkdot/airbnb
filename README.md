@@ -1,2 +1,3 @@
 
-##### Currrently working on this project. Codes will be updated by May 2022 
+Airbnb houses success prediction app:
+https://share.streamlit.io/nkdot/ab/main/ab.py
