@@ -4,6 +4,3 @@ The ultimate goal of this project is to predict the success of a listing in term
 
 
 
-Airbnb houses success prediction app:
-
-https://share.streamlit.io/kanmani-natarajan/airbnb/main/ab.py
